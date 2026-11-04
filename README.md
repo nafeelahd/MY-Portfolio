@@ -2,6 +2,12 @@
 
 A responsive personal portfolio for a software engineering undergraduate. Built with plain HTML, CSS, and JavaScript; there is no build step or package installation required.
 
+## Deployment
+
+- **Live site:** [nafeel-portfolio-one.vercel.app](https://nafeel-portfolio-one.vercel.app)
+- **Source:** [github.com/nafeelahd/nafeel-portfolio](https://github.com/nafeelahd/nafeel-portfolio)
+- The Vercel project is connected to this GitHub repository. Push changes to `main` to trigger a production deployment.
+
 ## Run locally
 
 1. Open this folder in VS Code.
