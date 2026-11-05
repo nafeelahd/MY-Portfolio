@@ -1,6 +1,6 @@
 # Nafeel Ahamed — Portfolio
 
-A responsive personal portfolio for a software engineering undergraduate. Built with plain HTML, CSS, and JavaScript; there is no build step or package installation required.
+A responsive personal portfolio. Built with plain HTML, CSS, and JavaScript; there is no build step or package installation required.
 
 ## Deployment
 
